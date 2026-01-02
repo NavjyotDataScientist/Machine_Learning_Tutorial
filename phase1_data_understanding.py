@@ -1,7 +1,12 @@
 # Phase 1: Data Understanding
-# A comprehensive Exploratory Data Analysis (EDA) script for beginners.
+# A comprehensive data understanding phase or stage where all the steps comes under this phase are listed below
+# Make sure you have to do only inspection nothing else.
+# Make an checklist or noted as what you have observe and write it down what changes you have to do in cleaning stage.
 # This script loads a dataset and performs initial exploration: structure, statistics,
 # missing values, distributions, correlations, and visualizations.
+
+# NOTE: THIS IS JUST STANDARD TEMPLATE WHICH COMES UNDER THIS PHASE AS PER MY EXP
+AS MANY OUTCOME POSSIBLE:
 
 import pandas as pd
 import numpy as np
