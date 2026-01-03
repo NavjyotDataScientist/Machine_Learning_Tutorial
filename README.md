@@ -1,6 +1,31 @@
 # Machine_Learning_Tutorial
 How to approach a industry standard structure toward a data science projects
 
+
+🔁 Standard Industry ML Pipeline (Clear Order)
+
+Here is the correct, real-world sequence:
+
+Data Understanding
+
+Data Cleaning
+
+Exploratory Data Analysis (EDA) ✅ (you’re here)
+
+Feature Engineering & Preprocessing ⬅️ NEXT
+
+Train–Validation–Test Split
+
+Model Training
+
+Model Evaluation
+
+Model Selection & Tuning
+
+Deployment
+
+Monitoring & Retraining
+
 # NOTE: THIS IS FOR LEARNING PURPOSE ONLY WHERE MANY OUTCOMES CAN COMES.
 
 # Phase 1: Data Understanding 
